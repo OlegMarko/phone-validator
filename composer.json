@@ -1,0 +1,19 @@
+{
+  "name": "fixik/phone-validator",
+  "description": "Laravel phone validation package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "o7",
+      "email": "olegmarko7@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Fixik\\Validator\\": "src"
+    }
+  }
+}
