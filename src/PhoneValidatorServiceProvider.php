@@ -14,7 +14,7 @@ class PhoneValidatorServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Validator::extend('phone', '\Fixik\Validation\PhoneValidation@validate');
+        Validator::extend('phone', '\Fixik\Validator\PhoneValidator@validate');
     }
 
     /**
