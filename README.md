@@ -1,4 +1,4 @@
-<p align="center">Laravel Phone Validator</p>
+<p align="center">Laravel Phone Validator (most phone number formats)</p>
 
 <p align="center">
 <a href="https://packagist.org/packages/fixik/phone-validator"><img src="https://poser.pugx.org/fixik/phone-validator/d/total.svg" alt="Total Downloads"></a>
